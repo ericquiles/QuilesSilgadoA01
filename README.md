@@ -1,8 +1,8 @@
-# kaka
+# QuilesSilgado
 
-A new Flutter project.
+Primer pryector con Flutter.
 
-## Getting Started
+##  Deberás crear un proyecto correctamente nombrado y crear su repositorio en Github. La aplicación deberá parecerse al figma proporcionado. Como extra deberá poder hacer scroll en la pantalla.
 
 This project is a starting point for a Flutter application.
 
